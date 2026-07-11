@@ -1,0 +1,8 @@
+{
+  "include": ["."],
+  "extraPaths": [".", "d:/AI App Builder"],
+  "venvPath": "d:/AI App Builder",
+  "venv": "venv",
+  "pythonVersion": "3.12",
+  "typeCheckingMode": "standard"
+}
